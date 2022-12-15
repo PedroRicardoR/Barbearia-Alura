@@ -40,7 +40,8 @@ em strong {
 }
 
 .beneficios {
-	background: #FFFFFF;
+	background: rgb(2,0,36);
+	background: linear-gradient(360deg, rgba(2,0,36,1) 17%, rgba(1,136,176,1) 33%, rgba(0,195,237,1) 40%, rgba(3,200,246,1) 45%, rgba(32,103,173,1) 52%, rgba(48,48,131,1) 56%, rgba(48,48,131,1) 61%, rgba(48,48,131,1) 68%, rgba(48,48,131,1) 77%); 
 	padding: 20px;
 }
 
